@@ -1,2 +1,2 @@
 # Python-Biblioteca-Tkinter-
-Nesta arquivo voc
+A biblioteca Tkinter nos permite criar uma interface gráfica e trabalhar informações.
