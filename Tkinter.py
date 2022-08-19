@@ -77,7 +77,7 @@ entry_idade.grid(row=1, column=2, padx=10, pady=5)
 
 
 # CAMPOS PAIS
-
+###############################
 #texto nome: nome = label(aplicação, largura, altura, texto, fonte="arial tamanho 10", cor="cor da letra.", bg="cor do background")
 label_pais = Label(janela, width=10, height=2, text="Pais", font="Arial 10", fg='#fc3503')
 # LABEL_NOME = (LINHA, COLUNA)
@@ -127,7 +127,6 @@ botao.grid(row=3, column=2, padx=5, pady=10)
 
 
 
-# CRIANDO BOTÃO APAGAR
 
 
 
